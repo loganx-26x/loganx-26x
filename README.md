@@ -1,4 +1,4 @@
-<img align="center" alt="Coding_bg" width="1000" height="400" src="https://www.cartoonbucket.com/wp-content/uploads/2015/07/Anime-Typing-In-Computer.gif">
+<img align="center" alt="Coding_bg" width="1000" height="400" src="https://wallpaperaccess.com/full/5298611.jpg">
 <h1 align="center">Hey there 👋, I'm Vedhas</h1>
 <h3 align="center">A software engineer with a passion for collaborating with others to make a positive impact through code. My interests lie in Machine Learning and Web Development, so feel free to reach out to me if you have any questions or projects in those areas. Thanks for stopping by!</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
