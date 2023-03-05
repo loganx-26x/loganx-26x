@@ -1,4 +1,4 @@
-<img align="center" alt="Coding_bg" width="1000" height="400" src="https://wallpaperaccess.com/full/5298611.jpg">
+<img align="center" alt="Coding_bg" width="950" height="450" src="https://cdn.dribbble.com/users/2401141/screenshots/5487982/developers-gif-showcase.gif">
 <h1 align="center">Hey there 👋, I'm Vedhas</h1>
 <h3 align="center">A software engineer with a passion for collaborating with others to make a positive impact through code. My interests lie in Machine Learning and Web Development, so feel free to reach out to me if you have any questions or projects in those areas. Thanks for stopping by!</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
